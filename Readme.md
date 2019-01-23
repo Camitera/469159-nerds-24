@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Camila Mili](https://up.htmlacademy.ru/htmlcss/24/user/469159).
-* Наставник: `Неизвестно`.
+* Наставник: [Владислав Ермолаев] (https://htmlacademy.ru/profile/id128353).
 
 ---
 
